@@ -73,4 +73,9 @@ button {
     cursor: pointer;
     font-family: var(--font);
     width: 160px;
+
+}
+
+@media screen and (max-width: 500px) {
+     
 }
